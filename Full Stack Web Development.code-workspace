@@ -1,0 +1,27 @@
+{
+	"folders": [
+		{
+			"path": "../Full Stack Web Development"
+		},
+		{
+			"path": "../DSA with C++(Raghav Garg - PW Skills)"
+		},
+		{
+			"path": "../DSA Questions"
+		},
+		{
+			"path": "../Python Course (CodeWithHarry)"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Full Stack Web Development",
+		"editor.tokenColorCustomizations": {
+			"comments": "",
+			"textMateRules": []
+		},
+		"files.associations": {
+			"iostream": "cpp",
+			"ostream": "cpp"
+		}
+	}
+}
