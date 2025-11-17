@@ -21,6 +21,7 @@ Each folder focuses on one core DSA pattern and contains problems plus a pattern
 - [Stack & Queue](./stack-queue/)
 - [Linked List](./linked-list/)
 - [Trees](./trees/)
+- [Prefix-Sum](./Prefix-Sum/)
 - [Graphs](./graphs/)
 - [Dynamic Programming](./dynamic-programming/)
 - [Greedy](./greedy/)
@@ -61,6 +62,7 @@ High-level learning goals for each major DSA pattern.
 - [ ] **Stack & Queue** – monotonic stacks, expression evaluation, BFS patterns, queue-based processing.
 - [ ] **Linked List** – pointer manipulation, cycle detection, reversing, merging, splitting lists.
 - [ ] **Trees** – DFS/BFS traversals, recursion patterns, BST properties, tree DP, serialization.
+- [ ] **Prefix Sum** - 
 - [ ] **Graphs** – adjacency lists, BFS/DFS, topological sort, connected components, shortest paths (BFS / Dijkstra).
 - [ ] **Dynamic Programming** – 1D/2D DP, state definitions, transitions, tabulation vs memoization, optimization tricks.
 - [ ] **Greedy** – local vs global optimality, sorting-based greedy, intervals, scheduling problems.
